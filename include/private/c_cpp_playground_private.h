@@ -1,0 +1,6 @@
+#ifndef C_CPP_PLAYGROUND_PRIVATE_H
+#define C_CPP_PLAYGROUND_PRIVATE_H
+
+void c_cpp_playground_private_print_hello();
+
+#endif
